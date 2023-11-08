@@ -3,4 +3,3 @@ from agent import Agent, train
 
 train()
 
-exit()
