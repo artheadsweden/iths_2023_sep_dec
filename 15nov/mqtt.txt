@@ -1,0 +1,7 @@
+
+
+       temp/term1
+term1-----------> |       |
+                  | MQTT- |      temp/#
+       temp/term2 | Broker|<----------------client 
+term2-----------> |       |----------------->
